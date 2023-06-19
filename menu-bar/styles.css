@@ -1,0 +1,110 @@
+* {
+    background-color: black;
+}
+
+h1 {
+    color: yellow;
+    text-align: center;
+    font-weight:900;
+    background-color: black;
+    align-items: center;
+}
+
+h1 img {
+    width: 45px;
+    height: 45px;
+    position: absolute;
+    left: 39.5%;
+    top: 1.8%;
+}
+
+.menu {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px 10%;
+    background-color: black;
+    border-style: double;
+    border-color: blue;
+    border-width: .5cm;
+    margin-bottom: .3cm;
+
+}
+
+a {
+    color: yellow;
+    font-size:xx-large;
+    text-decoration: none;
+}
+
+.content a:hover {
+    color: white;
+}
+
+.image  {
+    display: block;
+    width:1900px;
+    height:625px;
+    border: 1px solid black
+
+}
+
+.content {
+    display: flex;
+  }
+  
+.content img {
+    margin-right: 10px;
+    display: block;
+    height: 40px;
+    width: 40px;
+  }
+  
+.first a {
+    margin: 0;
+}
+
+
+* {
+    color: white;
+    background-color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+h1 {
+    color: yellow;
+}
+
+
+p {
+    font-size: larger;
+}
+
+
+.Foundation, .Grande, .Achievements, .Fortunes, .Treble {
+    border-style: double;
+    border-color: blue;
+    border-width: .3cm;
+    border-spacing: 1cm;
+    padding-bottom: 1cm;
+    margin-bottom: .5cm;
+}
+
+.Foundation, .Grande, .Achievements, .Fortunes, .Treble h1 {
+    text-align: center;
+
+}
+
+
+.Return a{
+    text-decoration: none;
+    font-size: larger;
+}
+
+
+
+.Return a:hover {
+    color: aqua;
+    text-decoration: none;
+}

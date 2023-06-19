@@ -1,0 +1,104 @@
+.Picture {
+    border-style: double;
+    border-color: blue;
+    border-width: .25cm;
+    margin-bottom: 1cm;
+    margin-top: 1cm;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.Picture img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    height: 10cm;
+    width: 10cm;
+    margin-top: 1cm;
+    margin-bottom: 1cm;
+}
+
+.Information {
+    color: yellow;
+    border-style: double;
+    border-color: blue;
+    border-width: .25cm;
+    margin-bottom: 1cm;
+    margin-top: 1cm;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    list-style: none;
+}
+
+.Information img {
+    width: .35cm;
+    height: .35cm;
+}
+
+.Information b{
+    color: rgb(201, 195, 195);
+}
+
+.Highlights {
+    color: yellow;
+    border-style: double;
+    border-color: blue;
+    border-width: .25cm;
+    margin-bottom: 1cm;
+    margin-top: 1cm;
+    width: 700px;
+    height: 750px;
+    margin-left: auto;
+    margin-right: auto;
+    list-style: none;
+}
+
+.Highlights iframe{
+    margin-left: auto;
+    margin-right: auto;
+    width: 600px;
+    height: 600px;
+    display: block;
+}
+
+.Return .Return1 {
+    border-style: groove;
+    float: left;
+    border-width: .15cm;
+    border-color: blue;
+    margin-right: 1cm;
+    margin-bottom: 0.5cm;
+}
+
+.Return .Return2 {
+    border-style: groove;
+    float: left;
+    border-width: .15cm;
+    border-color: blue;
+    margin-bottom: 0.5cm;
+}
+
+.Return .Return1 a{
+   color: white;
+   font-size: 0.5cm;
+   margin: 0.5cm;
+}
+
+.Return .Return2 a{
+    color: white;
+    font-size: 0.5cm;
+    margin: 0.5cm;
+ }
+
+.Return .Return1 a:hover{
+    color: yellow;
+    font-size: 0.5cm;
+ }
+
+.Return .Return2 a:hover{
+    color: yellow;
+    font-size: 0.5cm;
+ }
